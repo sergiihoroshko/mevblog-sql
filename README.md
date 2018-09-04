@@ -20,4 +20,4 @@
 
 ## how-to-connect
 
-``shell> mysql --user=root --password= mevblog-sql``
+``shell> mysql --user=root --password= mevblog``
